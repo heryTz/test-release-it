@@ -17,5 +17,26 @@
     "@release-it/conventional-changelog": "^8.0.1",
     "release-it": "^17.6.0",
     "release-it-pnpm": "^4.6.3"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore: release v${version}",
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true
+    },
+    "npm": {
+      "publish": false
+    },
+    "plugins": {
+      "release-it-pnpm": {},
+      "@release-it/conventional-changelog": {
+        "preset": {
+          "name": "angular"
+        },
+        "infile": "CHANGELOG.md"
+      }
+    }
   }
 }
