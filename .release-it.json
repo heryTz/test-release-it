@@ -16,8 +16,7 @@
       "preset": {
         "name": "angular"
       },
-      "infile": "CHANGELOG.md",
-      "strictSemVer": true
+      "infile": "CHANGELOG.md"
     }
   }
 }
