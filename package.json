@@ -21,10 +21,7 @@
     "git": {
       "commitMessage": "chore: release v${version}",
       "tagName": "v${version}",
-      "requireBranch": [
-        "main",
-        "beta"
-      ]
+      "requireBranch": "beta"
     },
     "github": {
       "release": true,
