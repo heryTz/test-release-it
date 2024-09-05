@@ -3,7 +3,7 @@ name: Release
 on:
   push:
     branches:
-      - main_
+      - main
 
 permissions:
   contents: read
@@ -34,3 +34,11 @@ jobs:
         run: pnpm install
       - name: Verify dependencies integrity
         run: pnpm audit
+      - name: Git config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Release
+        run: pnpm release --verbose
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
