@@ -11,6 +11,12 @@
     "publish": false
   },
   "plugins": {
-    "release-it-pnpm": {}
+    "release-it-pnpm": {},
+    "@release-it/conventional-changelog": {
+      "preset": {
+        "name": "angular"
+      },
+      "infile": "CHANGELOG.md"
+    }
   }
 }
