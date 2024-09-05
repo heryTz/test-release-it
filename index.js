@@ -12,3 +12,4 @@ export function hello(name) {
 // fix 5
 
 // feat 6
+// beta fix 1
