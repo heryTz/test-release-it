@@ -15,5 +15,6 @@ export function hello(name) {
 // fix test 1
 // fix squash 1
 // feat: squash 1
+// feat: test prs
 
 // feat 6
