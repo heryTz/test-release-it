@@ -18,6 +18,8 @@ export function hello(name) {
 // feat: test prs
 // feat: how to squash ? git rebase -i HEAD~3
 // feat: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/configuring-commit-squashing-for-pull-requests
+// feat: commitizen commitlint docs
+// https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/cz-commitlint
 
 // feat 6
 
