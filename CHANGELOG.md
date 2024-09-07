@@ -1,5 +1,12 @@
 
 
+# [0.5.0](https://github.com/heryTz/test-release-it/compare/v0.4.0...v0.5.0) (2024-09-07)
+
+
+### Features
+
+* test squash ([#1](https://github.com/heryTz/test-release-it/issues/1)) ([8a5564d](https://github.com/heryTz/test-release-it/commit/8a5564d5f253fbd804a4d688d1081ebd9d850dec))
+
 # [0.4.0](https://github.com/heryTz/test-release-it/compare/v0.3.0...v0.4.0) (2024-09-07)
 
 
