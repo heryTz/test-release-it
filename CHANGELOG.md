@@ -1,5 +1,12 @@
 
 
+# [0.6.0](https://github.com/heryTz/test-release-it/compare/v0.5.0...v0.6.0) (2024-09-07)
+
+
+### Features
+
+* commitizen commitlint docs ([9bdeead](https://github.com/heryTz/test-release-it/commit/9bdeead99bc7b74c7879e45f02409cea51e4457d))
+
 # [0.5.0](https://github.com/heryTz/test-release-it/compare/v0.4.0...v0.5.0) (2024-09-07)
 
 
