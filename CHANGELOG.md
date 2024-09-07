@@ -1,5 +1,22 @@
 
 
+# [1.0.0-beta.0](https://github.com/heryTz/test-release-it/compare/v0.2.0...v1.0.0-beta.0) (2024-09-07)
+
+
+### Bug Fixes
+
+* beta 1 ([83c044d](https://github.com/heryTz/test-release-it/commit/83c044de2090f57592fc8e546da13705982e2717))
+
+
+### Features
+
+* test breaking change ([86ed03f](https://github.com/heryTz/test-release-it/commit/86ed03fd015bac0887ff8016d437b5602405e378))
+
+
+### BREAKING CHANGES
+
+* test
+
 # [0.2.0](https://github.com/heryTz/test-release-it/compare/v0.1.1...v0.2.0) (2024-09-07)
 
 
