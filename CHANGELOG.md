@@ -1,5 +1,22 @@
 
 
+# [0.2.0](https://github.com/heryTz/test-release-it/compare/v0.1.1...v0.2.0) (2024-09-07)
+
+
+### Bug Fixes
+
+* 5 ([f7a786c](https://github.com/heryTz/test-release-it/commit/f7a786cc4af4434f761106443dbca5fea3ed88fe))
+
+
+### Features
+
+* 6 ([692ccf6](https://github.com/heryTz/test-release-it/commit/692ccf659aebf1196944664892cace7fea4b5fca))
+
+
+### Reverts
+
+* Revert "chore: release-it config" ([c8da736](https://github.com/heryTz/test-release-it/commit/c8da736c53f8f1c882033b874615d5ced75abbca))
+
 # [0.2.0](https://github.com/heryTz/test-release-it/compare/v0.1.0...v0.2.0) (2024-09-05)
 
 
