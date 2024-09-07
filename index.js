@@ -19,3 +19,5 @@ export function hello(name) {
 // feat: how to squash ? git rebase -i HEAD~3
 
 // feat 6
+
+// test commitlint
