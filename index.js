@@ -13,5 +13,9 @@ export function hello(name) {
 // feat 7
 // test 1
 // fix test 1
+// fix squash 1
+// feat: squash 1
+// feat: test prs
+// feat: how to squash ? git rebase -i HEAD~3
 
 // feat 6
