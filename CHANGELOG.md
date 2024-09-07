@@ -1,5 +1,12 @@
 
 
+# [0.4.0](https://github.com/heryTz/test-release-it/compare/v0.3.0...v0.4.0) (2024-09-07)
+
+
+### Features
+
+* test 1 squashed ([ddf1259](https://github.com/heryTz/test-release-it/commit/ddf12595b11649029de1e3bef38fc1ccc6015283))
+
 # [0.3.0](https://github.com/heryTz/test-release-it/compare/v0.2.0...v0.3.0) (2024-09-07)
 
 
