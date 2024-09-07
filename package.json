@@ -7,7 +7,7 @@
   "scripts": {
     "release": "release-it",
     "prepare": "husky",
-    "commit": "commit"
+    "commit": "git-cz"
   },
   "keywords": [],
   "author": "",
@@ -18,8 +18,11 @@
   "devDependencies": {
     "@commitlint/cli": "^19.4.1",
     "@commitlint/config-conventional": "^19.4.1",
+    "@commitlint/cz-commitlint": "^19.4.0",
     "@release-it/conventional-changelog": "^8.0.1",
+    "commitizen": "^4.3.0",
     "husky": "^9.1.5",
+    "inquirer": "9",
     "release-it": "^17.6.0"
   },
   "release-it": {
@@ -47,5 +50,10 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "@commitlint/cz-commitlint"
+    }
   }
 }
