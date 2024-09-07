@@ -1,5 +1,12 @@
 
 
+# [0.3.0](https://github.com/heryTz/test-release-it/compare/v0.2.0...v0.3.0) (2024-09-07)
+
+
+### Features
+
+* 7 ([322f025](https://github.com/heryTz/test-release-it/commit/322f02545548ebcab503824d43d9a34dc1f877b7))
+
 # [0.2.0](https://github.com/heryTz/test-release-it/compare/v0.1.1...v0.2.0) (2024-09-07)
 
 
