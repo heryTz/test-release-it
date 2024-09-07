@@ -17,6 +17,7 @@ export function hello(name) {
 // feat: squash 1
 // feat: test prs
 // feat: how to squash ? git rebase -i HEAD~3
+// feat: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/configuring-commit-squashing-for-pull-requests
 
 // feat 6
 
